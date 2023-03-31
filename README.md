@@ -1,4 +1,4 @@
-# Just testing Mermaid diagrams :mermaid: :)
+# Just testing Mermaid diagrams :mermaid:
 
 ```mermaid
 flowchart
