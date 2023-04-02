@@ -1,8 +1,9 @@
 # Just testing Mermaid diagrams :)
 
 ```mermaid
-flowchart
+flowchart 
   A --> B
+  A --> C
 ````
 
 ---
